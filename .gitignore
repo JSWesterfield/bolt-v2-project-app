@@ -1,0 +1,21 @@
+# config folder contents
+config
+/config
+
+# node / npm
+node_modules/
+package-lock.json
+
+#.json files
+.json
+credentials.json
+
+# macOS
+.DS_Store
+
+# Serverless
+.serverless/
+serverless.yaml
+
+# all yaml config files
+.yaml
